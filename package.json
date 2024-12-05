@@ -13,7 +13,12 @@
     "readline-sync": "^1.4.10"
   },
   "bin": {
-  "brain-games": "./bin/brain-games.js"
-},
-"type": "module"
+    "brain-games": "./bin/brain-games.js"
+  },
+  "type": "module",
+  "devDependencies": {
+    "eslint": "^8.57.1",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.31.0"
+  }
 }
