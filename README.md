@@ -5,3 +5,5 @@
 [Watch the gameplay demo on Asciinema](https://asciinema.org/a/sMspFPJQtNd8laLagC7HiRvjM)
 
 [Watch the gameplay demo on Asciinema Calculator](https://asciinema.org/a/hvE9OrCihdM5tFFeDTr2nUb2b)
+
+[Watch the gameplay demo on Asciinema Игра "НОД"](https://asciinema.org/a/C10CGbf0rbTd4cQoXqRTclvav)
