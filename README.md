@@ -10,4 +10,4 @@
 
 [Watch the gameplay demo on Asciinema Игра "Арифметическая прогрессия"](https://asciinema.org/a/nAg8hWktlMqE1uozxQbHSsErt)
 
-[Watch the gameplay demo on Asciinema Игра "Простое ли число?"](https://asciinema.org/a/WiLZpnM5x7Ngl5llHNcTt4efG)
+[Asciinema Игра "Игра "Простое ли число?"](https://asciinema.org/a/WiLZpnM5x7Ngl5llHNcTt4efG)
