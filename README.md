@@ -21,3 +21,7 @@ node.js >= V22.11.0
 
 ## Демонстрация игры: "НОД"
 <a href="https://asciinema.org/a/AttuUtY1ETadqBTh7lrJnhc4n" target="_blank"><img src="https://asciinema.org/a/AttuUtY1ETadqBTh7lrJnhc4n.svg" /></a>
+
+
+## Демонстрация игры: "Арифметическая прогрессия"
+<a href="https://asciinema.org/a/Sxwwr0piXHKKOhxnHz5vZaaZk" target="_blank"><img src="https://asciinema.org/a/Sxwwr0piXHKKOhxnHz5vZaaZk.svg" /></a>
