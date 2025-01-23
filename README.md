@@ -13,3 +13,7 @@ node.js >= V22.11.0
 
 [![asciinema](https://asciinema.org/a/cvwAZzMlVqXb1JRDTnmB2OKHb demo.gif)](https://asciinema.org/connect/87f94db2-d123-4cdc-8064-abd39596e02d)
 
+
+## Демонстрация игры: "Калькулятор"
+
+<a href="https://asciinema.org/a/2FauBGOtUJrvwHjUO5tfZwv4H" target="_blank"><img src="https://asciinema.org/a/2FauBGOtUJrvwHjUO5tfZwv4H.svg" /></a>
