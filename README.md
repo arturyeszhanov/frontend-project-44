@@ -3,10 +3,16 @@
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/b2b9d8de50692731e5ba/maintainability)](https://codeclimate.com/github/arturyeszhanov/frontend-project-44/maintainability)
 
-#Набор математических игр
 
-#Requirements
-node.js >= V22.11.0
+# Brain Games
+**Brain Games** — это набор консольных игр, развивающих логику и математическое мышление. Каждая игра предлагает решить определённую задачу за несколько раундов.
+
+## Установка
+
+1. Убедитесь, что у вас установлен node.js >= V16
+2. Клонируйте репозиторий:
+   git clone https://github.com/username/frontend-project-44.git
+
 
 
 ## Демонстрация игры: "Проверка на чётность"
