@@ -17,3 +17,7 @@ node.js >= V22.11.0
 ## Демонстрация игры: "Калькулятор"
 
 <a href="https://asciinema.org/a/2FauBGOtUJrvwHjUO5tfZwv4H" target="_blank"><img src="https://asciinema.org/a/2FauBGOtUJrvwHjUO5tfZwv4H.svg" /></a>
+
+
+## Демонстрация игры: "НОД"
+<a href="https://asciinema.org/a/AttuUtY1ETadqBTh7lrJnhc4n" target="_blank"><img src="https://asciinema.org/a/AttuUtY1ETadqBTh7lrJnhc4n.svg" /></a>
