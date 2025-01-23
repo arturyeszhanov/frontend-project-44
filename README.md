@@ -25,3 +25,7 @@ node.js >= V22.11.0
 
 ## Демонстрация игры: "Арифметическая прогрессия"
 <a href="https://asciinema.org/a/Sxwwr0piXHKKOhxnHz5vZaaZk" target="_blank"><img src="https://asciinema.org/a/Sxwwr0piXHKKOhxnHz5vZaaZk.svg" /></a>
+
+
+## Демонстрация игры: "Простое ли число?"
+<a href="https://asciinema.org/a/YBlnfqSTHFshbfYH8HBDdruvD" target="_blank"><img src="https://asciinema.org/a/YBlnfqSTHFshbfYH8HBDdruvD.svg" /></a>
