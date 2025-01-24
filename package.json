@@ -15,7 +15,8 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "lint": "eslint ."
+    "lint": "eslint .",
+    "test": "jest"
   },
   "bin": {
     "brain-games": "bin/brain-games.js",
@@ -33,6 +34,7 @@
     "eslint": "^8.57.1",
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-plugin-import": "^2.31.0",
-    "globals": "^15.14.0"
+    "globals": "^15.14.0",
+    "jest": "^29.7.0"
   }
 }
