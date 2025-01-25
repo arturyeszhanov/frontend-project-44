@@ -1,5 +1,5 @@
 import readlineSync from 'readline-sync';
-import { getRandomNumber } from '../utils/utils.js';
+import { getRandomNumber } from '../utils.js';
 
 const isEven = (number) => number % 2 === 0;
 
@@ -12,7 +12,7 @@ const runEvenGame = () => {
   const rounds = 3;
 
   for (let i = 0; i < rounds; i += 1) {
-    const number = getRandomNumber(1, 100); // Генерируем случайное число
+    const number = getRandomNumber(1, 100);
     console.log(`Question: ${number}`);
     const userAnswer = readlineSync.question('Your answer: ').toLowerCase();
 
