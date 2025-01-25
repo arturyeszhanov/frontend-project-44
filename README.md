@@ -17,7 +17,7 @@
 
 ## Демонстрация игры: "Проверка на чётность"
 
-[![asciinema](https://asciinema.org/a/cvwAZzMlVqXb1JRDTnmB2OKHb demo.gif)](https://asciinema.org/connect/87f94db2-d123-4cdc-8064-abd39596e02d)
+<a href="https://asciinema.org/a/cvwAZzMlVqXb1JRDTnmB2OKHb" target="_blank"><img src="https://asciinema.org/a/cvwAZzMlVqXb1JRDTnmB2OKHb.svg" /></a>
 
 
 ## Демонстрация игры: "Калькулятор"
