@@ -2,14 +2,16 @@ import runGame from '../index.js';
 
 const getRandomInt = (min, max) => Math.floor(Math.random() * (max - min + 1)) + min;
 
-const gcd = (a, b) => {
-  while (b) {
-    const temp = b;
-    b = a % b;
-    a = temp;
-  }
-  return a;
-};
+const gcd = (num1, num2) => {
+    let a = num1;
+    let b = num2;
+    while (b) {
+      const temp = b;
+      b = a % b;
+      a = temp;
+    }
+    return a;
+};  
 
 const generateRound = () => {
   const num1 = getRandomInt(1, 100);
