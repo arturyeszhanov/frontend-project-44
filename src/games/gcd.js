@@ -11,7 +11,7 @@ const gcd = (num1, num2) => {
     a = temp;
   }
   return a;
-};  
+};
 
 const generateRound = () => {
   const num1 = getRandomInt(1, 100);
