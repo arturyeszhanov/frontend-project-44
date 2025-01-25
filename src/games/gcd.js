@@ -25,8 +25,8 @@ const generateRound = () => {
 
 const rule = 'Find the greatest common divisor of given numbers.';
 
-const playGcdGame = () => {
+const runGcdGame = () => {
   runGame(rule, generateRound);
 };
 
-export default playGcdGame;
+export default runGcdGame;

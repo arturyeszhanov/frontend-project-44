@@ -33,8 +33,8 @@ const generateRound = () => {
 
 const rule = 'What is the result of the expression?';
 
-const playCalcGame = () => {
+const runCalcGame = () => {
   runGame(rule, generateRound);
 };
 
-export default playCalcGame;
+export default runCalcGame;

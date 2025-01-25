@@ -15,7 +15,6 @@
 1. Убедитесь, что у вас установлен node.js >= V13.2.0
 2. Клонируйте репозиторий:
    git clone https://github.com/username/frontend-project-44.git
-   cd frontend-project-44
 
 
 

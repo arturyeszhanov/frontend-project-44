@@ -24,8 +24,8 @@ const generateProgression = () => {
 
 const rule = 'What number is missing in the progression?';
 
-const playProgressionGame = () => {
+const runProgressionGame = () => {
   runGame(rule, generateProgression);
 };
 
-export default playProgressionGame;
+export default runProgressionGame;
