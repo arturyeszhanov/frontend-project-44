@@ -2,9 +2,9 @@ import runGame from '../index.js';
 
 const getRandomInt = (min, max) => Math.floor(Math.random() * (max - min + 1)) + min;
 
-const findGcd = (num1, num2) => {
-  let a = num1;
-  let b = num2;
+const findGcd = (number1, number2) => {
+  let a = number1;
+  let b = number2;
   while (b) {
     const temp = b;
     b = a % b;
@@ -14,11 +14,11 @@ const findGcd = (num1, num2) => {
 };
 
 const generateRound = () => {
-  const num1 = getRandomInt(1, 100);
-  const num2 = getRandomInt(1, 100);
+  const number1 = getRandomInt(1, 100);
+  const number2 = getRandomInt(1, 100);
 
-  const question = `${num1} ${num2}`;
-  const correctAnswer = findGcd(num1, num2);
+  const question = `${number1} ${number2}`;
+  const correctAnswer = findGcd(number1, number2);
 
   return [question, correctAnswer];
 };
