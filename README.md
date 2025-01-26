@@ -18,27 +18,27 @@
 
 
 
-## Демонстрация игры: "Проверка на чётность"
 
-<a href="https://asciinema.org/a/cvwAZzMlVqXb1JRDTnmB2OKHb" target="_blank"><img width="100%" height="300px" sty src="https://asciinema.org/a/cvwAZzMlVqXb1JRDTnmB2OKHb.svg" /></a>
+
+## Демонстрация игры: "Проверка на чётность"
+[![asciicast](https://asciinema.org/a/cvwAZzMlVqXb1JRDTnmB2OKHb.svg)](https://asciinema.org/a/cvwAZzMlVqXb1JRDTnmB2OKHb)
 
 
 
 ## Демонстрация игры: "Калькулятор"
-
-<a href="https://asciinema.org/a/2FauBGOtUJrvwHjUO5tfZwv4H" target="_blank"><img width="100%" height="300px" src="https://asciinema.org/a/2FauBGOtUJrvwHjUO5tfZwv4H.svg" /></a>
+[![asciicast](https://asciinema.org/a/2FauBGOtUJrvwHjUO5tfZwv4H.svg)](https://asciinema.org/a/2FauBGOtUJrvwHjUO5tfZwv4H)
 
 
 
 ## Демонстрация игры: "НОД"
-<a href="https://asciinema.org/a/AttuUtY1ETadqBTh7lrJnhc4n" target="_blank"><img width="100%" height="300px" src="https://asciinema.org/a/AttuUtY1ETadqBTh7lrJnhc4n.svg" /></a>
+[![asciicast](https://asciinema.org/a/AttuUtY1ETadqBTh7lrJnhc4n.svg)](https://asciinema.org/a/AttuUtY1ETadqBTh7lrJnhc4n)
 
 
 
 ## Демонстрация игры: "Арифметическая прогрессия"
-<a href="https://asciinema.org/a/Sxwwr0piXHKKOhxnHz5vZaaZk" target="_blank"><img width="100%" height="300px" src="https://asciinema.org/a/Sxwwr0piXHKKOhxnHz5vZaaZk.svg" /></a>
+[![asciicast](https://asciinema.org/a/Sxwwr0piXHKKOhxnHz5vZaaZk.svg)](https://asciinema.org/a/Sxwwr0piXHKKOhxnHz5vZaaZk)
 
 
 
 ## Демонстрация игры: "Простое ли число?"
-<a href="https://asciinema.org/a/YBlnfqSTHFshbfYH8HBDdruvD" target="_blank"><img width="100%" height="300px" src="https://asciinema.org/a/YBlnfqSTHFshbfYH8HBDdruvD.svg" /></a>
+[![asciicast](https://asciinema.org/a/YBlnfqSTHFshbfYH8HBDdruvD.svg)](https://asciinema.org/a/YBlnfqSTHFshbfYH8HBDdruvD)
