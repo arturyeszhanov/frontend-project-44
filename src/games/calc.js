@@ -1,11 +1,13 @@
 import runGame from '../index.js';
 
+const operations = ['+', '-', '*'];
+
+
 const getRandomInt = (min, max) => Math.floor(Math.random() * (max - min + 1)) + min;
 
 const generateRound = () => {
   const num1 = getRandomInt(1, 20);
   const num2 = getRandomInt(1, 20);
-  const operations = ['+', '-', '*'];
   const operation = operations[getRandomInt(0, operations.length - 1)];
 
   let question;
