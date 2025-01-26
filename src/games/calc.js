@@ -13,7 +13,7 @@ const calculateExpression = (number1, number2, operation) => {
     case '*':
       return number1 * number2;
     default:
-      throw new Error(`Unknown operation: $operation`);
+      throw new Error('Unknown operation: $operation');
   }
 };
 
@@ -22,8 +22,8 @@ const generateRound = () => {
   const number2 = getRandomInt(1, 20);
   const operation = operations[getRandomInt(0, operations.length - 1)];
 
-  let question = `${number1} ${operation} ${number2}`;;
-  let correctAnswer = calculateExpression(number1, number2, operation);
+  const question = `${number1} ${operation} ${number2}`;
+  const correctAnswer = calculateExpression(number1, number2, operation);
 
   return [question, String(correctAnswer)];
 };
