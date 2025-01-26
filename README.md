@@ -20,25 +20,25 @@
 
 ## Демонстрация игры: "Проверка на чётность"
 
-<a href="https://asciinema.org/a/cvwAZzMlVqXb1JRDTnmB2OKHb" target="_blank"><img src="https://asciinema.org/a/cvwAZzMlVqXb1JRDTnmB2OKHb.svg" /></a>
+<a href="https://asciinema.org/a/cvwAZzMlVqXb1JRDTnmB2OKHb" target="_blank"><img height="300" sty src="https://asciinema.org/a/cvwAZzMlVqXb1JRDTnmB2OKHb.svg" /></a>
 
 
 
 ## Демонстрация игры: "Калькулятор"
 
-<a href="https://asciinema.org/a/2FauBGOtUJrvwHjUO5tfZwv4H" target="_blank"><img src="https://asciinema.org/a/2FauBGOtUJrvwHjUO5tfZwv4H.svg" /></a>
+<a href="https://asciinema.org/a/2FauBGOtUJrvwHjUO5tfZwv4H" target="_blank"><img height="300" src="https://asciinema.org/a/2FauBGOtUJrvwHjUO5tfZwv4H.svg" /></a>
 
 
 
 ## Демонстрация игры: "НОД"
-<a href="https://asciinema.org/a/AttuUtY1ETadqBTh7lrJnhc4n" target="_blank"><img src="https://asciinema.org/a/AttuUtY1ETadqBTh7lrJnhc4n.svg" /></a>
+<a href="https://asciinema.org/a/AttuUtY1ETadqBTh7lrJnhc4n" target="_blank"><img height="300" src="https://asciinema.org/a/AttuUtY1ETadqBTh7lrJnhc4n.svg" /></a>
 
 
 
 ## Демонстрация игры: "Арифметическая прогрессия"
-<a href="https://asciinema.org/a/Sxwwr0piXHKKOhxnHz5vZaaZk" target="_blank"><img src="https://asciinema.org/a/Sxwwr0piXHKKOhxnHz5vZaaZk.svg" /></a>
+<a href="https://asciinema.org/a/Sxwwr0piXHKKOhxnHz5vZaaZk" target="_blank"><img height="300" src="https://asciinema.org/a/Sxwwr0piXHKKOhxnHz5vZaaZk.svg" /></a>
 
 
 
 ## Демонстрация игры: "Простое ли число?"
-<a href="https://asciinema.org/a/YBlnfqSTHFshbfYH8HBDdruvD" target="_blank"><img src="https://asciinema.org/a/YBlnfqSTHFshbfYH8HBDdruvD.svg" /></a>
+<a href="https://asciinema.org/a/YBlnfqSTHFshbfYH8HBDdruvD" target="_blank"><img height="300" src="https://asciinema.org/a/YBlnfqSTHFshbfYH8HBDdruvD.svg" /></a>
