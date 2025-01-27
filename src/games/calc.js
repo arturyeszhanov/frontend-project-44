@@ -25,7 +25,7 @@ const generateRound = () => {
   const question = `${number1} ${operation} ${number2}`;
   const correctAnswer = calculateExpression(number1, number2, operation);
 
-  return [question, correctAnswer.toString];
+  return [question, correctAnswer.toString()];
 };
 
 const runCalcGame = () => {
