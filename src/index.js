@@ -13,7 +13,7 @@ const runGame = (rule, generateRound) => {
     console.log(`Question: ${question}`);
     const userAnswer = readlineSync.question('Your answer: ').toLowerCase();
 
-    if (userAnswer !== String(correctAnswer).toLowerCase()) {
+    if (userAnswer !== correctAnswer.toString().toLowerCase()) {
       console.log(`'${userAnswer}' is wrong answer ;(. Correct answer was '${correctAnswer}'.`);
       console.log(`Let's try again, ${userName}!`);
       return;

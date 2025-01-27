@@ -13,14 +13,14 @@ const generateProgression = (start, step, length, hiddenIndex) => {
   progression[hiddenIndex] = '..';
   const question = progression.join(' ');
 
-  return [question, String(correctAnswer)];
+  return [question, correctAnswer.toString()];
 };
 
 const generateRound = () => {
   const length = getRandomNumber(5, 10);
   const start = getRandomNumber(1, 20);
   const step = getRandomNumber(2, 10);
-  const hiddenIndex = getRandomNumber(0, length - 1);
+  const hiddenIndex = getRandomNumber(0, 100);
 
   return generateProgression(start, step, length, hiddenIndex);
 };
