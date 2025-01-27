@@ -13,7 +13,7 @@ const generateProgression = (start, step, length, hiddenIndex) => {
   progression[hiddenIndex] = '..';
   const question = progression.join(' ');
 
-  return [question, correctAnswer.toString()];
+  return [question, String(correctAnswer)];
 };
 
 const generateRound = () => {
