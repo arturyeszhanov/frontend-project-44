@@ -12,15 +12,15 @@ const isPrime = (number) => {
   return true;
 };
 
-const generatePrimeQuestion = () => {
+const generateRound = () => {
   const number = getRandomNumber(1, 100);
+  const question = String(number);
   const correctAnswer = isPrime(number) ? 'yes' : 'no';
-  const question = number.toString();
   return [question, correctAnswer];
 };
 
 const runPrimeGame = () => {
-  runGame(rule, generatePrimeQuestion);
+  runGame(rule, generateRound);
 };
 
 export default runPrimeGame;
