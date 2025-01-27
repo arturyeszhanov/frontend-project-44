@@ -1,6 +1,5 @@
 import runGame from '../index.js';
-
-const getRandomInt = (min, max) => Math.floor(Math.random() * (max - min + 1)) + min;
+import getRandomNumber from '../utils.js';
 
 const findGcd = (number1, number2) => {
   let a = number1;
@@ -14,8 +13,8 @@ const findGcd = (number1, number2) => {
 };
 
 const generateRound = () => {
-  const number1 = getRandomInt(1, 100);
-  const number2 = getRandomInt(1, 100);
+  const number1 = getRandomNumber(1, 100);
+  const number2 = getRandomNumber(1, 100);
 
   const question = `${number1} ${number2}`;
   const correctAnswer = findGcd(number1, number2);
