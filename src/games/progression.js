@@ -12,7 +12,6 @@ const generateProgression = (progression, hiddenIndex) => {
   return [question, String(correctAnswer)];
 };
 
-// Функция для генерации раунда
 const generateRound = () => {
   const length = getRandomNumber(5, 10);
   const start = getRandomNumber(1, 20);
